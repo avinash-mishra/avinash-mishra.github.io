@@ -50,6 +50,14 @@
   
 
   
+      ,"page7": {
+          "title": "100 List",
+          "content": "Things I like to do before I die. . Visit south/north pole |",
+          "url": "https://avinash-mishra.github.io/daily-post/100_list/",
+          "relUrl": "/100_list/",
+          "date": ""
+      }
+      
   
 
   
@@ -59,7 +67,10 @@
   
 
   
-      ,"page10": {
+  
+
+  
+      ,"page11": {
           "title": "",
           "content": "Sitemap: {{ “sitemap.xml” | absolute_url }} | .",
           "url": "https://avinash-mishra.github.io/daily-post/robots.txt",
