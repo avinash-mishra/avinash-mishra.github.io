@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>https://avinash-mishra.github.io/daily-post/markdown/2020/01/14/test-markdown-post.html</loc>
+<loc>https://avinash-mishra.github.io/markdown/2020/01/14/test-markdown-post.html</loc>
 <lastmod>2020-01-14T00:00:00-06:00</lastmod>
 </url>
 <url>
-<loc>https://avinash-mishra.github.io/daily-post/jupyter/2020/02/20/test.html</loc>
+<loc>https://avinash-mishra.github.io/jupyter/2020/02/20/test.html</loc>
 <lastmod>2020-02-20T00:00:00-06:00</lastmod>
 </url>
 <url>
-<loc>https://avinash-mishra.github.io/daily-post/about/</loc>
+<loc>https://avinash-mishra.github.io/about/</loc>
 </url>
 <url>
-<loc>https://avinash-mishra.github.io/daily-post/</loc>
+<loc>https://avinash-mishra.github.io/</loc>
 </url>
 <url>
-<loc>https://avinash-mishra.github.io/daily-post/search/</loc>
+<loc>https://avinash-mishra.github.io/search/</loc>
 </url>
 <url>
-<loc>https://avinash-mishra.github.io/daily-post/categories/</loc>
+<loc>https://avinash-mishra.github.io/categories/</loc>
 </url>
 <url>
-<loc>https://avinash-mishra.github.io/daily-post/100_list/</loc>
+<loc>https://avinash-mishra.github.io/100_list/</loc>
 </url>
 </urlset>
